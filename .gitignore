@@ -72,3 +72,4 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+AlienSwarm/Saved/Logs/AlienSwarm_2.log
