@@ -1,0 +1,9 @@
+C:\Users\seans\OneDrive\Documents\GitHub\FPS_Alien\AlienSwarm\Intermediate\Build\Win64\UE4Editor\Development\AlienSwarm\Definitions.AlienSwarm.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\seans\OneDrive\Documents\GitHub\FPS_Alien\AlienSwarm\Source\AlienSwarm/AlienSwarmGameMode.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+c:\users\seans\onedrive\documents\github\fps_alien\alienswarm\intermediate\build\win64\ue4editor\inc\alienswarm\AlienSwarmGameMode.generated.h

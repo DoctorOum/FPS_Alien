@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AlienSwarm",
+			"Path": "C:\\Users\\seans\\OneDrive\\Documents\\GitHub\\FPS_Alien\\AlienSwarm\\Source\\AlienSwarm.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AlienSwarmEditor",
+			"Path": "C:\\Users\\seans\\OneDrive\\Documents\\GitHub\\FPS_Alien\\AlienSwarm\\Source\\AlienSwarmEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
