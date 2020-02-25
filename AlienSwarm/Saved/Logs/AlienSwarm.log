@@ -636,3 +636,69 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.25-21.00.48:906][966]LogSlate: Window 'Message' being destroyed
 [2020.02.25-21.00.51:383][ 96]LogSlate: Window 'Editor Preferences' being destroyed
 [2020.02.25-21.00.51:402][ 96]LogSlate: Window 'Editor Preferences' being destroyed
+[2020.02.25-21.01.56:933][231]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-21.01.56:966][231]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.02.25-21.01.56:966][231]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-21.01.56:967][231]PIE: New page: PIE session: FirstPersonExampleMap (Feb 25, 2020, 11:01:56 AM)
+[2020.02.25-21.01.56:969][231]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.02.25-21.01.56:972][231]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.02.25-21.01.56:972][231]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.02.25-21.01.57:004][231]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030945s)
+[2020.02.25-21.01.57:006][231]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.02.25-21.01.57:006][231]LogPlayLevel: PIE: World Init took: (0.002593s)
+[2020.02.25-21.01.57:006][231]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.034243s)
+[2020.02.25-21.01.57:051][231]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.02.25-21.01.57:056][231]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.25-21.01.57:056][231]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.25-21.01.57:056][231]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.25-21.01.57:056][231]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.25-21.01.57:056][231]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.25-21.01.57:056][231]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.25-21.01.57:056][231]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.25-21.01.57:056][231]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.25-21.01.57:057][231]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.25-21.01.57:057][231]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.25-21.01.57:104][231]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.25-21.01.57:104][231]LogAudioMixer: Display: Name: Headphones (ED117)
+[2020.02.25-21.01.57:104][231]LogAudioMixer: Display: Is Default: Yes
+[2020.02.25-21.01.57:104][231]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.25-21.01.57:104][231]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.25-21.01.57:104][231]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.25-21.01.57:104][231]LogAudioMixer: Display: Channel Order:
+[2020.02.25-21.01.57:104][231]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.25-21.01.57:104][231]LogAudioMixer: Display: 1: FrontRight
+[2020.02.25-21.01.57:128][231]LogAudioMixer: Display: Using Audio Device Headphones (ED117)
+[2020.02.25-21.01.57:131][231]LogInit: FAudioDevice initialized.
+[2020.02.25-21.01.57:144][231]LogLoad: Game class is 'AlienSwarmGameMode'
+[2020.02.25-21.01.57:149][231]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.02.25-16.01.57
+[2020.02.25-21.01.57:150][231]LogWorld: Bringing up level for play took: 0.003633
+[2020.02.25-21.01.57:150][231]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2020.02.25-21.01.57:160][231]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2020.02.25-21.01.57:161][231]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0.818
+[2020.02.25-21.01.57:162][231]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.02.25-21.02.42:228][492]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1447.382 Y=-441.053 Z=235.769] for [FirstPersonProjectile_C]
+[2020.02.25-21.02.42:695][522]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1491.550 Y=-477.539 Z=240.828] for [FirstPersonProjectile_C]
+[2020.02.25-21.02.42:904][535]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1553.484 Y=-467.712 Z=251.314] for [FirstPersonProjectile_C]
+[2020.02.25-21.02.43:080][546]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1580.463 Y=-443.145 Z=259.767] for [FirstPersonProjectile_C]
+[2020.02.25-21.02.43:628][583]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1531.763 Y=-433.541 Z=246.111] for [FirstPersonProjectile_C]
+[2020.02.25-21.02.43:839][597]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1515.169 Y=-425.988 Z=263.124] for [FirstPersonProjectile_C]
+[2020.02.25-21.02.44:026][610]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1469.906 Y=-433.697 Z=279.821] for [FirstPersonProjectile_C]
+[2020.02.25-21.02.47:664][863]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-21.02.47:683][863]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.02.25-21.02.47:713][863]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.02.25-21.02.47:713][863]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.02.25-21.02.47:714][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-21.02.47:714][863]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.02.25-21.02.47:714][863]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-21.02.47:714][863]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.25-21.02.47:715][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.25-21.02.47:720][863]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-21.02.47:721][863]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.02.25-21.02.47:724][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.25-21.02.47:760][863]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.25-21.02.47:765][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-21.02.47:770][863]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.02.25-21.02.47:804][864]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.02.25-21.05.47:470][243]LogDirectoryWatcher: A directory notification failed for 'C:/Users/seans/OneDrive/Documents/GitHub/FPS_Alien/AlienSwarm/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2020.02.25-21.05.47:472][243]LogDirectoryWatcher: A directory notification failed for 'C:/Users/seans/OneDrive/Documents/GitHub/FPS_Alien/AlienSwarm/Content/Developers/seans/Collections/' because it could not be accessed. Aborting watch request...
+[2020.02.25-21.05.47:473][243]LogDirectoryWatcher: A directory notification failed for 'C:/Users/seans/OneDrive/Documents/GitHub/FPS_Alien/AlienSwarm/Saved/Collections/' because it could not be accessed. Aborting watch request...
