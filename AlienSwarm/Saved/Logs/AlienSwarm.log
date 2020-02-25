@@ -627,3 +627,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.25-20.46.10:930][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2020.02.25-20.46.28:031][179]LogAssetRegistry: Asset discovery search completed in 25.9683 seconds
 [2020.02.25-20.46.28:049][179]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000037 seconds (updated 0 objects)
+[2020.02.25-20.56.47:775][  8]LogSlate: Window 'Project Settings' being destroyed
+[2020.02.25-20.56.47:795][  8]LogSlate: Window 'Project Settings' being destroyed
+[2020.02.25-20.58.48:861][450]LogSlate: Took 0.000291 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.25-21.00.33:940][823]LogSlate: Window 'Message' being destroyed
+[2020.02.25-21.00.40:202][823]LogSlate: Window 'Message' being destroyed
+[2020.02.25-21.00.44:166][966]LogSlate: Window 'Message' being destroyed
+[2020.02.25-21.00.48:906][966]LogSlate: Window 'Message' being destroyed
+[2020.02.25-21.00.51:383][ 96]LogSlate: Window 'Editor Preferences' being destroyed
+[2020.02.25-21.00.51:402][ 96]LogSlate: Window 'Editor Preferences' being destroyed
