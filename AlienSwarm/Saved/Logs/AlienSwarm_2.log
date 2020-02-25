@@ -627,3 +627,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.25-21.09.21:811][574]LogSlate: Window 'FirstPersonCharacter' being destroyed
 [2020.02.25-21.09.21:830][574]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
 [2020.02.25-21.09.21:830][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.25-21.30.39:216][726]LogUObjectHash: Compacting FUObjectHashTables data took   5.84ms
+[2020.02.25-21.30.39:622][726]LogSavePackage: Moving '../../../../../../Users/seans/OneDrive/Documents/GitHub/FPS_Alien/AlienSwarm/Saved/FirstPersonExampleMapA1B7A1C34118A384EC2B149911B90E06.tmp' to '../../../../../../Users/seans/OneDrive/Documents/GitHub/FPS_Alien/AlienSwarm/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2020.02.25-21.30.44:795][726]LogSavePackage: Moving '../../../../../../Users/seans/OneDrive/Documents/GitHub/FPS_Alien/AlienSwarm/Saved/FirstPersonExampleMap_BuiltData133ED968473F05CB62E60C8D3E93B6E1.tmp' to '../../../../../../Users/seans/OneDrive/Documents/GitHub/FPS_Alien/AlienSwarm/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.02.25-21.30.44:876][726]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.25-21.30.44:876][726]LogContentValidation: Display: Validating World /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.02.25-21.30.44:876][726]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
