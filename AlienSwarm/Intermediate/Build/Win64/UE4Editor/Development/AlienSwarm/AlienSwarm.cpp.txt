@@ -1,2 +1,0 @@
-C:\Users\seans\OneDrive\Documents\GitHub\FPS_Alien\AlienSwarm\Intermediate\Build\Win64\UE4Editor\Development\AlienSwarm\Definitions.AlienSwarm.h
-c:\users\seans\onedrive\documents\github\fps_alien\alienswarm\source\alienswarm\AlienSwarm.h
